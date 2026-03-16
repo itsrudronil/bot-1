@@ -1,1 +1,9 @@
-
+{
+  "name": "gopgopsinz",
+  "version": "1.0.0",
+  "description": "Aternos AFK bot gopgopsinz",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.0.0"
+  }
+}
